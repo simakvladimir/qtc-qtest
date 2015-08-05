@@ -1,0 +1,8 @@
+debug/examplepluginplugin.o
+debug/moc_examplepluginplugin.cpp
+*.o
+debug/qtcreator_gui_pch.h.gch/c++
+Makefile
+*.Release
+Makefile.Debug
+*.user

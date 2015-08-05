@@ -1,0 +1,12 @@
+{
+    \"Name\" : \"ExamplePlugin\",
+    \"Version\" : \"0.0.1\",
+    \"CompatVersion\" : \"0.0.1\",
+    \"Vendor\" : \"Simakov\",
+    \"Copyright\" : \"(C) SimalovSoft\",
+    \"License\" : \"nothing\",
+    \"Description\" : \"hello world\",
+    \"Url\" : \"https://vk.com/simakov.vladimir\",
+    $$dependencyList
+}
+
